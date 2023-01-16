@@ -1,2 +1,2 @@
 # Course-Selection-System-Database-Project
-done utilizing Oracle, SQL, and Pl/SQL technologies
+As our final database management system lab project for the fourth semester, we completed this project. This was a personal project, and we created the entity relational model for the entire Course Selection System before adding the needed information to the database. a variety of SQL queries, sub-queries, and pl/sql searches for data in the Oracle database's tables were displayed.
